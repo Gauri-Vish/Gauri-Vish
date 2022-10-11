@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Gauri
-- The creator or HeartOK and cofounder of The Tumble
-I am a student 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🧠 The creator or HeartOK and cofounder of The Tumble
+- 📚 PG MSc Data Science student
+- 👀 I love to explore data and the unexpected and hidden
+- 🌱 I’m currently learning NO SQL databases
+
 
 <!---
 Gauri-Vish/Gauri-Vish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
