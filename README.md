@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Gauri
+- 🌱 Data Science enthusiast 
 - 🧠 The creator or HeartOK and cofounder of The Tumble
 - 📚 PG MSc Data Science student
 - 👀 I love to explore data and the unexpected and hidden
